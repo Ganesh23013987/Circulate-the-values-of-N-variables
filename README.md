@@ -30,6 +30,7 @@ def circulate():
 ```
 
 ## Output:
-![output<![Alt text](<circulate n variables output.png>)>]
+![output<
 
 ## Result:
+The program is successfully executed
