@@ -8,7 +8,7 @@ Anaconda - Python 3.7
 ### Step 1: 
 start the program
 ### Step 2: 
-first define and give the function name for the program 
+first give "define" keyword and give the function name for the program and circulate the list
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
