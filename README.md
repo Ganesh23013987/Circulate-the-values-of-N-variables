@@ -1,4 +1,4 @@
-# Circulate-the-values-of-n-variables
+# Circulate-the-values-of-N-variables
 ## Aim:
 To write a python program to circulate the n variables using function concept
 ## Equipment’s required:
@@ -34,4 +34,4 @@ def circulate():
 
 
 ## Result:
-The program is successfully executed
+Then,the program is successfully executed
